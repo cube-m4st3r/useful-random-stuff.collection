@@ -1,0 +1,6 @@
+colorama
+lxml
+requests
+termcolor
+pysocks
+fake-useragent
