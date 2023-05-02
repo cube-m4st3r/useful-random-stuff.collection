@@ -1,3 +1,6 @@
+# DISCLAIMER BY CUBEMASTER
+These files belong respectively to <a href="https://github.com/limkokhole">limkokohole</a> ⇢ <a href="https://github.com/limkokhole/pinterest-downloader">GitHub-Repo</a>
+
 # pinterest-downloader
 Download all images/videos from Pinterest user/board/section.
 
